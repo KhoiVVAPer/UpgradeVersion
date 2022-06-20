@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components > custom > layoutManager > CompatibleMachines Check snapshot 1`] = `
+<react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            COMPATIBLE MACHINES
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+    </react-native-mock>
+  </react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            Actual machines
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+    </react-native-mock>
+  </react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          
+        </react-native-mock>
+      </react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              <react-native-mock>
+                test
+              </react-native-mock>
+            </react-native-mock>
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+    </react-native-mock>
+    <react-native-mock />
+  </react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            Old Machines
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+    </react-native-mock>
+  </react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          
+        </react-native-mock>
+      </react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              <react-native-mock>
+                test
+              </react-native-mock>
+            </react-native-mock>
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+    </react-native-mock>
+    <react-native-mock />
+  </react-native-mock>
+</react-native-mock>
+`;

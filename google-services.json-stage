@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "327975830957",
+    "firebase_url": "https://p-kaercher-digitalcatalog.firebaseio.com",
+    "project_id": "p-kaercher-digitalcatalog",
+    "storage_bucket": "p-kaercher-digitalcatalog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327975830957:android:9fe99bc537ec8a1e",
+        "android_client_info": {
+          "package_name": "com.ak_dca_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327975830957-ce9btv8fsgqouiqgjcomojbgj0hom600.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjkLSHse28KmZJdHDMFOMvAwh6fAQbQmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327975830957-ce9btv8fsgqouiqgjcomojbgj0hom600.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "327975830957-sh5smsj79qv0md4bo6hrprvvbqclg2r8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kaercher.programme.test"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327975830957:android:4a0ac604915ff8b0",
+        "android_client_info": {
+          "package_name": "com.kaercher.programme.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327975830957-ce9btv8fsgqouiqgjcomojbgj0hom600.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjkLSHse28KmZJdHDMFOMvAwh6fAQbQmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327975830957-ce9btv8fsgqouiqgjcomojbgj0hom600.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "327975830957-sh5smsj79qv0md4bo6hrprvvbqclg2r8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kaercher.programme.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

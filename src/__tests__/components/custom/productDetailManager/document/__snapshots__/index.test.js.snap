@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components > custom > layoutManager > Document Check snapshot 1`] = `
+<react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            DOWNLOADS
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+    </react-native-mock>
+  </react-native-mock>
+  <react-native-mock>
+    <react-native-mock />
+    <react-native-mock />
+    <react-native-mock />
+    <react-native-mock />
+    <react-native-mock />
+    <react-native-mock />
+  </react-native-mock>
+</react-native-mock>
+`;

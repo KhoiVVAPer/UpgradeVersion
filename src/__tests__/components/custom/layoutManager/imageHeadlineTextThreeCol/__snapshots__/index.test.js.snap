@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components > custom > layoutManager > ImageHeadlineTextThreeCol Check snapshot 1`] = `
+<react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      <react-native-mock>
+        <react-native-mock />
+      </react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              <react-native-mock>
+                Headline left one
+              </react-native-mock>
+            </react-native-mock>
+          </react-native-mock>
+        </react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              <react-native-mock>
+                <react-native-mock>
+                  Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
+                </react-native-mock>
+              </react-native-mock>
+            </react-native-mock>
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+    </react-native-mock>
+    <react-native-mock>
+      <react-native-mock>
+        <react-native-mock />
+      </react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              <react-native-mock>
+                Headline middle column
+              </react-native-mock>
+            </react-native-mock>
+          </react-native-mock>
+        </react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              <react-native-mock>
+                <react-native-mock>
+                  Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
+                </react-native-mock>
+              </react-native-mock>
+            </react-native-mock>
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+    </react-native-mock>
+    <react-native-mock>
+      <react-native-mock>
+        <react-native-mock />
+      </react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              <react-native-mock>
+                Headline right side
+              </react-native-mock>
+            </react-native-mock>
+          </react-native-mock>
+        </react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              <react-native-mock>
+                <react-native-mock>
+                  Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
+                </react-native-mock>
+              </react-native-mock>
+            </react-native-mock>
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+    </react-native-mock>
+  </react-native-mock>
+</react-native-mock>
+`;

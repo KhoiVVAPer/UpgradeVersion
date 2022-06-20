@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components > productDetailManager > anchor Check snapshot 1`] = `
+<react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      ANCHOR1
+    </react-native-mock>
+  </react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      ANCHOR2
+    </react-native-mock>
+  </react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      ANCHOR3
+    </react-native-mock>
+  </react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      ANCHOR4
+    </react-native-mock>
+  </react-native-mock>
+</react-native-mock>
+`;

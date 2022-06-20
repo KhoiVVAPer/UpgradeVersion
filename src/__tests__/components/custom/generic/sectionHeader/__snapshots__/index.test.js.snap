@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components > custom > elements > SectionHeader Check snapshot 1`] = `
+<react-native-mock>
+  <react-native-mock>
+    HEADING
+  </react-native-mock>
+</react-native-mock>
+`;

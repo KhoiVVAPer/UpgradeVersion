@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components > custom > layoutManager > Anchors Check snapshot 1`] = `
+<react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      HEADLINE TEXT
+    </react-native-mock>
+  </react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      IMAGE HEADLINE
+    </react-native-mock>
+  </react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      LEFT IMAGE HEADLINE
+    </react-native-mock>
+  </react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      FOUR COLUMN
+    </react-native-mock>
+  </react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      FULL IMAGE
+    </react-native-mock>
+  </react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      TWO COLUMN
+    </react-native-mock>
+  </react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      THREE COLUMN
+    </react-native-mock>
+  </react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      TABLE
+    </react-native-mock>
+  </react-native-mock>
+</react-native-mock>
+`;

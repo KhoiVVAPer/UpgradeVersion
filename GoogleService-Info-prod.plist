@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>327975830957-olj2ss6v2907g4ocerfbh5i2lrhpto2h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.327975830957-olj2ss6v2907g4ocerfbh5i2lrhpto2h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB7TfqIckbf18BuZLPomdcNG7ET0F5ZHvE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>327975830957</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kaercher.programme</string>
+	<key>PROJECT_ID</key>
+	<string>p-kaercher-digitalcatalog</string>
+	<key>STORAGE_BUCKET</key>
+	<string>p-kaercher-digitalcatalog.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:327975830957:ios:f7f7a722f6567770</string>
+	<key>DATABASE_URL</key>
+	<string>https://p-kaercher-digitalcatalog.firebaseio.com</string>
+</dict>
+</plist>

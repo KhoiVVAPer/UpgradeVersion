@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components > productDetailManager > detergentWarnings Check snapshot 1`] = `
+<react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            SETTINGS
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+    </react-native-mock>
+  </react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      <react-native-mock />
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              Quickly restore ubiquitous outside the box thinking and long-term high-impact leadership skills. Appropriately.
+            </react-native-mock>
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+    </react-native-mock>
+    <react-native-mock>
+      <react-native-mock />
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              Quickly restore ubiquitous outside the box thinking and long-term high-impact leadership skills. Appropriately.
+            </react-native-mock>
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+    </react-native-mock>
+    <react-native-mock>
+      <react-native-mock />
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              Quickly restore ubiquitous outside the box thinking and long-term high-impact leadership skills. Appropriately.
+            </react-native-mock>
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+    </react-native-mock>
+    <react-native-mock>
+      <react-native-mock />
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              Quickly restore ubiquitous outside the box thinking and long-term high-impact leadership skills. Appropriately.
+            </react-native-mock>
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+    </react-native-mock>
+    <react-native-mock>
+      <react-native-mock />
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              Quickly restore ubiquitous outside the box thinking and long-term high-impact leadership skills. Appropriately.
+            </react-native-mock>
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+    </react-native-mock>
+    <react-native-mock>
+      <react-native-mock />
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              Quickly restore ubiquitous outside the box thinking and long-term high-impact leadership skills. Appropriately.
+            </react-native-mock>
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+    </react-native-mock>
+  </react-native-mock>
+</react-native-mock>
+`;

@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components > custom > layoutManager > Imageheadlinetextfiftyfifty Check snapshot 1`] = `
+<react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      <react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              <react-native-mock>
+                <react-native-mock>
+                  Headline
+                </react-native-mock>
+              </react-native-mock>
+            </react-native-mock>
+          </react-native-mock>
+        </react-native-mock>
+        <react-native-mock>
+          <react-native-mock>
+            <react-native-mock>
+              <react-native-mock>
+                <react-native-mock>
+                  <react-native-mock>
+                    Lorem ipsum dolor sit amet, 
+                  </react-native-mock>
+                </react-native-mock>
+                <react-native-mock>
+                  <react-native-mock>
+                    <react-native-mock>
+                      consetetur sadipscing
+                    </react-native-mock>
+                  </react-native-mock>
+                </react-native-mock>
+                <react-native-mock>
+                  <react-native-mock>
+                     elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo 
+                  </react-native-mock>
+                </react-native-mock>
+                <react-native-mock>
+                  <react-native-mock>
+                    <react-native-mock />
+                    <react-native-mock>
+                      <react-native-mock>
+                        <react-native-mock>
+                          <react-native-mock>
+                            dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+                          </react-native-mock>
+                        </react-native-mock>
+                      </react-native-mock>
+                    </react-native-mock>
+                  </react-native-mock>
+                  <react-native-mock>
+                    <react-native-mock />
+                    <react-native-mock>
+                      <react-native-mock>
+                        <react-native-mock>
+                          <react-native-mock>
+                            Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                          </react-native-mock>
+                        </react-native-mock>
+                      </react-native-mock>
+                    </react-native-mock>
+                  </react-native-mock>
+                </react-native-mock>
+                <react-native-mock>
+                  <react-native-mock>
+                     sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+                  </react-native-mock>
+                </react-native-mock>
+              </react-native-mock>
+            </react-native-mock>
+          </react-native-mock>
+        </react-native-mock>
+      </react-native-mock>
+      <react-native-mock />
+    </react-native-mock>
+  </react-native-mock>
+</react-native-mock>
+`;

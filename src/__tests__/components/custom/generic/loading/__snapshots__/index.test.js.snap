@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components > custom > elements > Loading Check snapshot 1`] = `
+<react-native-mock>
+  <react-native-mock>
+    <react-native-mock />
+    <react-native-mock>
+      <react-native-mock>
+        Language configuration is setting up. Please wait.
+      </react-native-mock>
+    </react-native-mock>
+  </react-native-mock>
+</react-native-mock>
+`;

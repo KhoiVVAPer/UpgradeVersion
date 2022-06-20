@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components > custom > elements > ErrorView Check snapshot 1`] = `
+<react-native-mock>
+  <react-native-mock>
+    <react-native-mock>
+      
+    </react-native-mock>
+  </react-native-mock>
+  <react-native-mock>
+    ERROR 404
+  </react-native-mock>
+  <react-native-mock>
+    Sorry, this content is at the moment not availble because you are offline.
+Please try again later
+  </react-native-mock>
+</react-native-mock>
+`;
